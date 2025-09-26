@@ -165,6 +165,7 @@ ORDER BY spending_quartile, total_spent DESC;
 
 - IBM Documentation on DB2 Window Functions (for comparative syntax).
 
+Statement of Integrity: In my README, include the necessary sentence: Every source was correctly referenced. Analysis and implementations are examples of original work. No content produced by AI was duplicated without acknowledgement or modification.
 
 
 
