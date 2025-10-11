@@ -1,4 +1,4 @@
-# plsql-window-functions-Urwibutso-MUGISHA-PRINCE-Benjamin
+# plsql-window-functions-Urwibutso-MUGISHA-PRINCE-Benjamin-26979
 **Problem Definition **
 Business Context: URWIBUTSO - Sina Gerard is a well-known agro-processing in Nyiragama Rwand. It has an annual turnover of around EUR 1.5 million. The company produces a wide variety of products like AKARUSHO Grape wine, AKANDI Natural Mineral water, AGASHYA Natural fruits juices, AKANOZO Flours, Urwibutso fruit juices, AKACU Tomato Ketchup and AKABANGA Chilli oil. To target high-value clients and optimise inventory, the sales and marketing division must examine sales performance.
 Data Challenge: The business does not have a dynamic study of regional product performance, client purchasing patterns , or sales trends. Because of this, it is challenging to determine which products are the best sellers in various provinces, comprehend trends in sales growth, and divide up the client base for successful marketing initiatives.
